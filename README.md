@@ -22,6 +22,10 @@ An Arduino-based safety monitoring system that detects smoke and flammable gases
 ---
 
 ## Pin Connections
+![Basic Circuit Diagram](diagrams/circuit_v1_basic.png)
+
+## Live Simulation Demo
+https://github.com/aakash-ahirwar/smoke-gas-detector-mq2/raw/main/media/simulation_demo.mp4
 
 ### Common Wiring (v1 & v2)
 | Component Pin | Arduino Uno Pin | Notes |
